@@ -21,3 +21,10 @@ Dataset - http://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups
 OR
 
 You can use "Project_Text_Classification.ipynb" which does the above same task without any file reading and writing
+
+## Results obtained
+
+1. f1-score: 0.82 using Naive Bayes from sklearn
+2. f1-score: 0.92 using Naive Bayes from scratch
+
+f1-score obtained from this repo's Naive Bayes implementation from scratch is better than that of obtained from sklearn's implementation
